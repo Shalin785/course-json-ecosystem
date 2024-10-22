@@ -60,3 +60,13 @@
     "certification": "paid"
   }
 ]
+ {
+    "id": 7,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "c language",
+    "link": "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "free"
+  }
